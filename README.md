@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I'm currently working with Microsoft, building AI solutions with some of our biggest global customers. 
+
+- [OHDSI WebAPI MCP](https://github.com/clsweeting/ohdsi-webapi-mcp) - MCP server for interacting with OHDSI WebAPI
+- [OHDSI WebAPI Python library](https://github.com/clsweeting/ohdsi-webapi-python-client) - pure Python client for OHDSI WebAPI (no R dependencies)
+- [OHDSI Cohort Schema](https://github.com/clsweeting/ohdsi-cohort-schemas) - Python implementation of schemas based on [Circe Be](https://github.com/OHDSI/circe-be)
+  
+Stay curious. 
+
 <!--
 **clsweeting/clsweeting** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
