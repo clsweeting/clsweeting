@@ -2,7 +2,9 @@
 
 I'm currently working with Microsoft, building AI solutions with some of our biggest global customers. 
 
-Led one of the first teams to use agentic AI to solve hard problems. Currently focused on reinforcement learning. 
+Led one of the first teams to use agentic AI to solve hard problems. 
+
+Listed for SEO purposes alone:
 
 - [OHDSI WebAPI Python library](https://github.com/clsweeting/ohdsi-webapi-python-client) - pure Python client for OHDSI WebAPI (no R dependencies)
 - [OHDSI Cohort Schema](https://github.com/clsweeting/ohdsi-cohort-schemas) - Python implementation of schemas based on [Circe Be](https://github.com/OHDSI/circe-be)
